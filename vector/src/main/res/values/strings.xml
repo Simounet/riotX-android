@@ -2386,4 +2386,5 @@ Not all features in Riot are implemented in RiotX yet. Main missing (and coming 
     </plurals>
     <string name="invite_users_to_room_failure">We could not invite users. Please check the users you want to invite and try again.</string>
 
+    <string name="open_terms_of">Open terms of %s</string>
 </resources>
