@@ -3,6 +3,7 @@ Changes in RiotX 0.20.0 (2020-XX-XX)
 
 Features ✨:
  - Add Direct Shortcuts (#652)
+ - Identity server support (#607)
 
 Improvements 🙌:
  - Invite member(s) to an existing room (#1276)
