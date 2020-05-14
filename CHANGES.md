@@ -14,6 +14,7 @@ Bugfix 🐛:
  - Fix | Verify Manually by Text crashes if private SSK not known (#1337)
  - Sometimes the same device appears twice in the list of devices of a user (#1329)
  - Random Crashes while doing sth with cross signing keys (#1364)
+ - Fix issues with FontScale switch (#69, #645)
 
 Translations 🗣:
  -
