@@ -8,6 +8,7 @@ Improvements 🙌:
  - Invite member(s) to an existing room (#1276)
  - Improve notification accessibility with ticker text (#1226)
  - Support homeserver discovery from MXID (DISABLED: waiting for design) (#476)
+ - Add a setting to hide redacted events (#951)
 
 Bugfix 🐛:
  - Fix | Verify Manually by Text crashes if private SSK not known (#1337)
